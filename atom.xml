@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiger-stare.github.io/index.html</id>
-    <title>Biao</title>
-    <updated>2022-09-02T13:34:17.760Z</updated>
+    <title>Biao的个人主页</title>
+    <updated>2022-09-02T13:48:01.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiger-stare.github.io/index.html"/>
     <link rel="self" href="https://tiger-stare.github.io/index.html/atom.xml"/>
     <subtitle>欢迎来到我的首页</subtitle>
     <logo>https://tiger-stare.github.io/index.html/images/avatar.png</logo>
     <icon>https://tiger-stare.github.io/index.html/favicon.ico</icon>
-    <rights>All rights reserved 2022, Biao</rights>
+    <rights>All rights reserved 2022, Biao的个人主页</rights>
     <entry>
-        <title type="html"><![CDATA[123]]></title>
+        <title type="html"><![CDATA[第二个页面]]></title>
+        <id>https://tiger-stare.github.io/index.html/post/di-er-ge-ye-mian/</id>
+        <link href="https://tiger-stare.github.io/index.html/post/di-er-ge-ye-mian/">
+        </link>
+        <updated>2022-09-02T13:42:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一个页面]]></title>
         <id>https://tiger-stare.github.io/index.html/post/hello/</id>
         <link href="https://tiger-stare.github.io/index.html/post/hello/">
         </link>
         <updated>2022-09-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
+        <summary type="html"><![CDATA[<p>this is the first page.</p>
+<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
 😀</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p>this is the first page.</p>
+<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
 😀</p>
 ]]></content>
     </entry>
