@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiger-stare.github.io/index.html</id>
-    <title>Gridea</title>
-    <updated>2022-09-02T13:12:00.885Z</updated>
+    <title>Biaoge</title>
+    <updated>2022-09-02T13:17:40.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiger-stare.github.io/index.html"/>
     <link rel="self" href="https://tiger-stare.github.io/index.html/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>个人首页</subtitle>
     <logo>https://tiger-stare.github.io/index.html/images/avatar.png</logo>
     <icon>https://tiger-stare.github.io/index.html/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, Biaoge</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea123]]></title>
         <id>https://tiger-stare.github.io/index.html/post/hello-gridea/</id>
