@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiger-stare.github.io/index.html</id>
     <title>Biaoge</title>
-    <updated>2022-09-02T13:23:44.422Z</updated>
+    <updated>2022-09-02T13:30:09.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiger-stare.github.io/index.html"/>
     <link rel="self" href="https://tiger-stare.github.io/index.html/atom.xml"/>
@@ -11,23 +11,15 @@
     <icon>https://tiger-stare.github.io/index.html/favicon.ico</icon>
     <rights>All rights reserved 2022, Biaoge</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea123]]></title>
+        <title type="html"><![CDATA[123]]></title>
         <id>https://tiger-stare.github.io/index.html/post/hello/</id>
         <link href="https://tiger-stare.github.io/index.html/post/hello/">
         </link>
         <updated>2022-09-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意...</p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
+        <summary type="html"><![CDATA[<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
 😀</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意...</p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://tiger-stare.github.io/index.html/post-images/1662124885467.png" alt="" loading="lazy"><br>
 😀</p>
 <!-- more -->
 <p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
